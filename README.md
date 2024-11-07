@@ -31,7 +31,7 @@ To run the **Spring Boot Online Payment System** on your local machine:
 
 1. **Clone the repository**:
    '''bash
-   'git clone https://github.com/Jadhavsakshi7887/online-payment-system.git'
+   'git clone https://github.com/Jadhavsakshi7887/payement.git'
    
      '''bash
 3.   cd payment
