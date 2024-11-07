@@ -44,3 +44,7 @@ Click on "Open" and select the cloned project folder.
 In IntelliJ IDEA, find the main class (Application.java) and run it as a Java application.
 The payment system will start, and you will see the console interface where you can interact with the system.
 
+**Contact**
+
+If you have any questions or feedback, please contact me at sakshijadhav788757@gmail.com
+
