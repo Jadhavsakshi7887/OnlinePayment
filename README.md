@@ -32,7 +32,7 @@ To run the **Spring Boot Online Payment System** on your local machine:
 1. **Clone the repository**:
    git clone https://github.com/Jadhavsakshi7887/OnlinePayment.git
 
-2.   ``cd payment``
+2.   ``cd payement``
 
 3.  Import the project into IntelliJ IDEA 
 
