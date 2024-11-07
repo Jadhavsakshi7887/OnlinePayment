@@ -30,12 +30,13 @@ Before running the application, make sure you have the following installed:
 To run the **Spring Boot Online Payment System** on your local machine:
 
 1. **Clone the repository**:
-   
+   '''bash
    'git clone https://github.com/Jadhavsakshi7887/online-payment-system.git'
+   
+     '''bash
+3.   cd payment
 
-2.  'cd payment'
-
-3.  Import the project into IntelliJ IDEA 
+4.  Import the project into IntelliJ IDEA 
 
 **Open IntelliJ IDEA.**
 Click on "Open" and select the cloned project folder.
